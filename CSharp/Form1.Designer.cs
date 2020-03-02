@@ -64,7 +64,7 @@
             // 
             this.lblNumberOne.AccessibleName = "";
             this.lblNumberOne.AutoSize = true;
-            this.lblNumberOne.Location = new System.Drawing.Point(229, 160);
+            this.lblNumberOne.Location = new System.Drawing.Point(232, 160);
             this.lblNumberOne.Name = "lblNumberOne";
             this.lblNumberOne.Size = new System.Drawing.Size(53, 17);
             this.lblNumberOne.TabIndex = 3;

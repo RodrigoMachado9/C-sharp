@@ -7,3 +7,4 @@ C:\Users\rodri\Documents\GitHub\Aula1\CSharp\obj\Debug\CSharp.Properties.Resourc
 C:\Users\rodri\Documents\GitHub\Aula1\CSharp\obj\Debug\CSharp.csproj.GenerateResource.cache
 C:\Users\rodri\Documents\GitHub\Aula1\CSharp\obj\Debug\CSharp.exe
 C:\Users\rodri\Documents\GitHub\Aula1\CSharp\obj\Debug\CSharp.pdb
+C:\Users\rodri\Documents\GitHub\Aula1\CSharp\obj\Debug\CSharp.Form2.resources

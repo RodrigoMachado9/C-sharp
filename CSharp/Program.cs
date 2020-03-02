@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace CSharp
 {
-    static class Program
+    static class Program    
     {
         /// <summary>
         /// Ponto de entrada principal para o aplicativo.
@@ -16,7 +16,8 @@ namespace CSharp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            //Application.Run(new Form1()); // aplicar conceito de single thread. 
+            Application.Run(new Form2());
         }
     }
 }
