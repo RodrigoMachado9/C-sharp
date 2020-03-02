@@ -8,3 +8,4 @@ C:\Users\rodri\Documents\GitHub\Aula1\CSharp\obj\Debug\CSharp.csproj.GenerateRes
 C:\Users\rodri\Documents\GitHub\Aula1\CSharp\obj\Debug\CSharp.exe
 C:\Users\rodri\Documents\GitHub\Aula1\CSharp\obj\Debug\CSharp.pdb
 C:\Users\rodri\Documents\GitHub\Aula1\CSharp\obj\Debug\CSharp.Form2.resources
+C:\Users\rodri\Documents\GitHub\Aula1\CSharp\obj\Debug\CSharp.Form3.resources

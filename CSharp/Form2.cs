@@ -29,7 +29,7 @@ namespace CSharp
                 int number;
                 number = int.Parse(textBox1.Text);
 
-                string message = number % 2 == 0 ? $"O numero {number} é par" : $"esse numero {number} é ímpar";
+                string message = number % 2 == 0 ? $"O numero {number} é par" : $"O numero {number} é ímpar";
 
 
                 if (number % 2 == 0)
@@ -45,7 +45,7 @@ namespace CSharp
             }
             catch {
 
-                MessageBox.Show("Please input integer number.");
+                MessageBox.Show("please input integer number.");
 
             
             
